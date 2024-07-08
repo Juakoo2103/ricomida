@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+.logotext {
+  font-family: "Lobster", cursive;
+  font-size: 2.5rem;
+  color: white;
+}
+.bg-custom {
+  background-color: #373a3c;
+}
+
+.custom-color {
+  color: #373a3c;
+}
+
+#receta ul {
+  list-style: none;
+}
+.ff-custom {
+  font-family: "Lobster", cursive;
+}
+
+.bg-custom-footer {
+  background-color: #dc3545;
+}
+
+/* Weight:
+● Cabin Regular (400)
+● Cabin Bold (700)
+● Lobster Regular (400)
+Colores
+● #373a3c
+● #dddddd
+● #000 o var(--black)
+● #fff o var(--white)
+● #dc3545 o var(--danger)
+ */
